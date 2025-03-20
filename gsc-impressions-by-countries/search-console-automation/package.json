@@ -1,0 +1,21 @@
+{
+  "name": "search-console-automation",
+  "version": "1.0.0",
+  "description": "Automation script for extracting impression data from Google Search Console by country.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "playwright": "^1.51.1"
+  },
+  "keywords": [
+    "google",
+    "search-console",
+    "automation",
+    "playwright"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
