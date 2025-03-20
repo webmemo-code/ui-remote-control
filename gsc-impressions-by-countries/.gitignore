@@ -1,0 +1,5 @@
+# Ignore credentials files and folders
+.env
+*.json
+credentials/
+config.py

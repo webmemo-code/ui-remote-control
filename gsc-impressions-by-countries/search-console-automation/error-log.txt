@@ -1,0 +1,92 @@
+Error processing United States at 2025-03-20T21:18:57.439Z: page.click: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Add a filter")')[22m
+
+page.click: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Add a filter")')[22m
+
+    at run (C:\Users\w_sch\source\repos\ui-remote-control\gsc-impressions-by-countries\search-console-automation\src\index.js:46:20)
+
+Error processing United Kingdom at 2025-03-20T21:19:18.318Z: page.click: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Add a filter")')[22m
+
+page.click: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Add a filter")')[22m
+
+    at run (C:\Users\w_sch\source\repos\ui-remote-control\gsc-impressions-by-countries\search-console-automation\src\index.js:46:20)
+
+Error processing United States at 2025-03-20T21:20:59.713Z: page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Country")') to be visible[22m
+[2m    43 × locator resolved to hidden <button jsname="KVikuc" jscontroller="O626Fe" aria-describedby="tt-c12" data-tooltip-enabled="true" data-idom-class="kClsHc KKjvXb sKK1Wd" class="FOBRw-LgbsSe FOBRw-LgbsSe-OWXEXe-SfQLQb-suEOdc FOBRw-LgbsSe-OWXEXe-dgl2Hf FOBRw-LgbsSe-OWXEXe-zcdHbf FOBRw-StrnGf-YYd4I-VtOx3e kClsHc KKjvXb sKK1Wd" jsaction="click:h5M12e; clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox; focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;">…</button>[22m
+
+page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Country")') to be visible[22m
+[2m    43 × locator resolved to hidden <button jsname="KVikuc" jscontroller="O626Fe" aria-describedby="tt-c12" data-tooltip-enabled="true" data-idom-class="kClsHc KKjvXb sKK1Wd" class="FOBRw-LgbsSe FOBRw-LgbsSe-OWXEXe-SfQLQb-suEOdc FOBRw-LgbsSe-OWXEXe-dgl2Hf FOBRw-LgbsSe-OWXEXe-zcdHbf FOBRw-StrnGf-YYd4I-VtOx3e kClsHc KKjvXb sKK1Wd" jsaction="click:h5M12e; clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox; focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;">…</button>[22m
+
+    at run (C:\Users\w_sch\source\repos\ui-remote-control\gsc-impressions-by-countries\search-console-automation\src\index.js:52:20)
+
+Error processing United Kingdom at 2025-03-20T21:21:20.925Z: page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Country")') to be visible[22m
+[2m    43 × locator resolved to hidden <button jsname="KVikuc" jscontroller="O626Fe" aria-describedby="tt-c12" data-tooltip-enabled="true" data-idom-class="kClsHc KKjvXb sKK1Wd" class="FOBRw-LgbsSe FOBRw-LgbsSe-OWXEXe-SfQLQb-suEOdc FOBRw-LgbsSe-OWXEXe-dgl2Hf FOBRw-LgbsSe-OWXEXe-zcdHbf FOBRw-StrnGf-YYd4I-VtOx3e kClsHc KKjvXb sKK1Wd" jsaction="click:h5M12e; clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox; focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;">…</button>[22m
+
+page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Country")') to be visible[22m
+[2m    43 × locator resolved to hidden <button jsname="KVikuc" jscontroller="O626Fe" aria-describedby="tt-c12" data-tooltip-enabled="true" data-idom-class="kClsHc KKjvXb sKK1Wd" class="FOBRw-LgbsSe FOBRw-LgbsSe-OWXEXe-SfQLQb-suEOdc FOBRw-LgbsSe-OWXEXe-dgl2Hf FOBRw-LgbsSe-OWXEXe-zcdHbf FOBRw-StrnGf-YYd4I-VtOx3e kClsHc KKjvXb sKK1Wd" jsaction="click:h5M12e; clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox; focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;">…</button>[22m
+
+    at run (C:\Users\w_sch\source\repos\ui-remote-control\gsc-impressions-by-countries\search-console-automation\src\index.js:52:20)
+
+Error processing Germany at 2025-03-20T21:21:42.164Z: page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Country")') to be visible[22m
+[2m    43 × locator resolved to hidden <button jsname="KVikuc" jscontroller="O626Fe" aria-describedby="tt-c12" data-tooltip-enabled="true" data-idom-class="kClsHc KKjvXb sKK1Wd" class="FOBRw-LgbsSe FOBRw-LgbsSe-OWXEXe-SfQLQb-suEOdc FOBRw-LgbsSe-OWXEXe-dgl2Hf FOBRw-LgbsSe-OWXEXe-zcdHbf FOBRw-StrnGf-YYd4I-VtOx3e kClsHc KKjvXb sKK1Wd" jsaction="click:h5M12e; clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox; focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;">…</button>[22m
+
+page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Country")') to be visible[22m
+[2m    43 × locator resolved to hidden <button jsname="KVikuc" jscontroller="O626Fe" aria-describedby="tt-c12" data-tooltip-enabled="true" data-idom-class="kClsHc KKjvXb sKK1Wd" class="FOBRw-LgbsSe FOBRw-LgbsSe-OWXEXe-SfQLQb-suEOdc FOBRw-LgbsSe-OWXEXe-dgl2Hf FOBRw-LgbsSe-OWXEXe-zcdHbf FOBRw-StrnGf-YYd4I-VtOx3e kClsHc KKjvXb sKK1Wd" jsaction="click:h5M12e; clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox; focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;">…</button>[22m
+
+    at run (C:\Users\w_sch\source\repos\ui-remote-control\gsc-impressions-by-countries\search-console-automation\src\index.js:52:20)
+
+Error processing Brazil at 2025-03-20T21:22:03.381Z: page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Country")') to be visible[22m
+[2m    43 × locator resolved to hidden <button jsname="KVikuc" jscontroller="O626Fe" aria-describedby="tt-c12" data-tooltip-enabled="true" data-idom-class="kClsHc KKjvXb sKK1Wd" class="FOBRw-LgbsSe FOBRw-LgbsSe-OWXEXe-SfQLQb-suEOdc FOBRw-LgbsSe-OWXEXe-dgl2Hf FOBRw-LgbsSe-OWXEXe-zcdHbf FOBRw-StrnGf-YYd4I-VtOx3e kClsHc KKjvXb sKK1Wd" jsaction="click:h5M12e; clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox; focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;">…</button>[22m
+
+page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Country")') to be visible[22m
+[2m    43 × locator resolved to hidden <button jsname="KVikuc" jscontroller="O626Fe" aria-describedby="tt-c12" data-tooltip-enabled="true" data-idom-class="kClsHc KKjvXb sKK1Wd" class="FOBRw-LgbsSe FOBRw-LgbsSe-OWXEXe-SfQLQb-suEOdc FOBRw-LgbsSe-OWXEXe-dgl2Hf FOBRw-LgbsSe-OWXEXe-zcdHbf FOBRw-StrnGf-YYd4I-VtOx3e kClsHc KKjvXb sKK1Wd" jsaction="click:h5M12e; clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox; focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;">…</button>[22m
+
+    at run (C:\Users\w_sch\source\repos\ui-remote-control\gsc-impressions-by-countries\search-console-automation\src\index.js:52:20)
+
+Error processing India at 2025-03-20T21:22:15.075Z: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('button:has-text("Country")') to be visible[22m
+[2m    24 × locator resolved to hidden <button jsname="KVikuc" jscontroller="O626Fe" aria-describedby="tt-c12" data-tooltip-enabled="true" data-idom-class="kClsHc KKjvXb sKK1Wd" class="FOBRw-LgbsSe FOBRw-LgbsSe-OWXEXe-SfQLQb-suEOdc FOBRw-LgbsSe-OWXEXe-dgl2Hf FOBRw-LgbsSe-OWXEXe-zcdHbf FOBRw-StrnGf-YYd4I-VtOx3e kClsHc KKjvXb sKK1Wd" jsaction="click:h5M12e; clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox; focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;">…</button>[22m
+
+page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('button:has-text("Country")') to be visible[22m
+[2m    24 × locator resolved to hidden <button jsname="KVikuc" jscontroller="O626Fe" aria-describedby="tt-c12" data-tooltip-enabled="true" data-idom-class="kClsHc KKjvXb sKK1Wd" class="FOBRw-LgbsSe FOBRw-LgbsSe-OWXEXe-SfQLQb-suEOdc FOBRw-LgbsSe-OWXEXe-dgl2Hf FOBRw-LgbsSe-OWXEXe-zcdHbf FOBRw-StrnGf-YYd4I-VtOx3e kClsHc KKjvXb sKK1Wd" jsaction="click:h5M12e; clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox; focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;">…</button>[22m
+
+    at run (C:\Users\w_sch\source\repos\ui-remote-control\gsc-impressions-by-countries\search-console-automation\src\index.js:52:20)
+
+Error processing South Korea at 2025-03-20T21:22:15.078Z: page.$$eval: Target page, context or browser has been closed
+page.$$eval: Target page, context or browser has been closed
+    at run (C:\Users\w_sch\source\repos\ui-remote-control\gsc-impressions-by-countries\search-console-automation\src\index.js:37:42)
+
+Error processing Canada at 2025-03-20T21:22:15.079Z: page.$$eval: Target page, context or browser has been closed
+page.$$eval: Target page, context or browser has been closed
+    at run (C:\Users\w_sch\source\repos\ui-remote-control\gsc-impressions-by-countries\search-console-automation\src\index.js:37:42)
+
+Error processing Australia at 2025-03-20T21:22:15.080Z: page.$$eval: Target page, context or browser has been closed
+page.$$eval: Target page, context or browser has been closed
+    at run (C:\Users\w_sch\source\repos\ui-remote-control\gsc-impressions-by-countries\search-console-automation\src\index.js:37:42)
+

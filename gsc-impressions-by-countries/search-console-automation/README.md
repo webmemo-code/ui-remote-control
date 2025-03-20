@@ -36,8 +36,22 @@ search-console-automation
    ```
 
 2. Install the required dependencies:
+   ```bash
+   npm install playwright
+   npm install csv-parser
+   npm install fs-extra
+   npm install dotenv
    ```
-   npm install
+
+   3. Install Playwright browsers:
+   ```bash
+   npx playwright install
+   ```
+
+   4. Create a `.env` file in the root directory and add your Google credentials:
+   ```
+   GOOGLE_EMAIL=your-email@gmail.com
+   GOOGLE_PASSWORD=your-password
    ```
 
 ## Usage
